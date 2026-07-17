@@ -1,5 +1,19 @@
 {
   "tasks": [
- 
+    {
+      "id": "e7c6",
+      "title": "Finish homework",
+      "complete": true
+    },
+    {
+      "id": "95ff",
+      "title": "Reply to email",
+      "important": true
+    },
+    {
+      "id": "9af1",
+      "title": "Clean the house",
+      "complete": true
+    }
   ]
 }
